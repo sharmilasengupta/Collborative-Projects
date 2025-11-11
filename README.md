@@ -1,8 +1,8 @@
 # List of Collborative-Projects 
 |No| Academic Year | # Projects |
 |:-:| :-----------:| :--------: |
-| 1 | [2011-2012](https://github.com/sharmilasengupta/Collborative-Projects/edit/main/README.md#academic-year-2011-2012) | 01 |
-| 2 | [2013-2014](https://github.com/sharmilasengupta/Collborative-Projects/edit/main/README.md#academic-year-2013-2014) | 01 |
+| 1 | [2011-2012]() | 01 |
+| 2 | [2013-2014]() | 01 |
 
 
 ## Academic Year 2011-2012
