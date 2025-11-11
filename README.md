@@ -3,8 +3,8 @@
 |:-:| :-----------:| :--------: |
 | 1 | [2011-2012](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2011-2012) | 01 |
 | 2 | [2013-2014](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2013-2014) | 01 |
-| 3 | [2015-2016]() | 01 |
-| 4 | [2016-2017]() | 01 |
+| 3 | [2015-2016](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2015-2016) | 01 |
+| 4 | [2016-2017](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2016-2017) | 01 |
 
 
 ## Academic Year 2011-2012
@@ -27,11 +27,11 @@
 - [Github Repo]()
 - [Project Completion Letter]()
 
-## Academic Year 2015-16
+## Academic Year 2015-2016
 #### 1. Determining the properties of rock samples using Image Processing
 ###### Collaborating Organization Details :
 - Organization Name : [Bhabha Atommic Research Centre, Mumbai]()
-- Contact Person : [V. Lakshmi Narsimhan, Officer-In-Charge, Practical Training & Project Work, BARC]()
+- Contact Person : [V. Lakshmi Narsimhan, Officer-In-Charge, Practical Training & Project Work, BARC]
 - Members : 
   - [](), [](), [](), []()
 - [Github Repo]()
